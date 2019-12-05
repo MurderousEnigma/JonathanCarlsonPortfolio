@@ -1,0 +1,26 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+.RowAM:after{
+	
+	content: "";
+	display: table;
+	clear: both;
+	
+}
+
+.columnAM{
+	width: 50%;
+	float: left;
+	
+}
+
+.AMPic{
+	height: 75%;
+	
+}
