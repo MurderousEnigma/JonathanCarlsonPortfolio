@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
  */
 body {
-  background-color: #689CCC;
+  background-color: #547ea2;
   padding-top: 56px;
 }
 .RowAM:after{
@@ -12,16 +12,16 @@ body {
 	content: "";
 	display: table;
 	clear: both;
-	background-color: #689CCC;
+	background-color: #547ea2;
 }
 
 .columnAM{
 	width: 50%;
 	float: left;
-	background-color: #689CCC;
+	background-color: #547ea2;
 }
 
 .AMPic{
 	height: 75%;
-	background-color: #689CCC;
+	background-color: #547ea2;
 }
