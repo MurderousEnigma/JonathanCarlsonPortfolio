@@ -8,6 +8,12 @@ body {
   padding-top: 56px;
 }
 .RowAM::after{
+  display: flex;
+  flex-direction: column;
+	background-color: #547ea2;
+}
+
+.RowAM3::after{
 	content: "";
 	clear: both;
 	display: table;
@@ -36,3 +42,4 @@ body {
     width: 100%;
   }
 }
+
