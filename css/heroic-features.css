@@ -7,11 +7,17 @@ body {
   background-color: #547ea2;
   padding-top: 56px;
 }
-.RowAM:after{
-	
+.RowAM::after{
 	content: "";
-	display: table;
 	clear: both;
+	display: table;
+	background-color: #547ea2;
+}
+
+.RowAM2{
+
+	display: flex;
+	flex-direction: column;
 	background-color: #547ea2;
 }
 
@@ -24,4 +30,9 @@ body {
 .AMPic{
 	height: 75%;
 	background-color: #547ea2;
+}
+@media screen and (max-width: 500px) {
+  .columnAM {
+    width: 100%;
+  }
 }
